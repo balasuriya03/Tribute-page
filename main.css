@@ -80,10 +80,7 @@ h4+p{
     position: relative;
 
   }
-  .project-image{
-    border:solid #333;
-    border-radius: 15px;
-  }
+
   .caption{
     font-size: 1.2em;
     padding-top: 1.2rem;
@@ -196,6 +193,11 @@ h4+p{
 
   .container1 a:hover{
     background-color: lightsteelblue;
+  }
+
+  .project-image{
+    border:solid #333;
+    border-radius: 15px;
   }
 
   .footer h2{
